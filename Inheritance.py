@@ -1,4 +1,4 @@
-# this contains only concepts of inheritance
+# This contains only concepts of inheritance.
 
 class person():
     def __init__(self, firstname, lastname):
@@ -32,3 +32,5 @@ y = person("faizy", "faizyy")
 y.report()
 z = agent("faizy", "faizyy")
 z.check(47)
+
+print("It's ok")
