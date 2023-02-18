@@ -1,0 +1,5 @@
+from pymodules import index
+index()
+from pymodules import myclass
+x = myclass("It's me!")
+x.report()
